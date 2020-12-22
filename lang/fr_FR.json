@@ -1,0 +1,35 @@
+{
+  "ADVENT__TITLE": "Calendrier de l'avent",
+  "ADVENT__CONFIG": "Configuration",
+  "ADVENT__GIFT": "Cadeaux",
+  "ADVENT__HISTORY": "Historique",
+
+  "ADVENT__INDEX_DESC": "Vous pouvez récupérer chaque jour de décembre des récompenses, si vous ne récuperez pas la récompense le jour même elle ne sera plus disponible.",
+
+  "ADVENT__INDEX_COLLECT": "Déjà récupéré",
+  "ADVENT__INDEX_CAN_COLLECT": "Disponible",
+  "ADVENT__INDEX_FORGET": "Non collecté",
+  "ADVENT__INDEX_NOT_AVAILABLE": "Non disponible",
+
+  "ADVENT__ADD_GIFT": "Ajouter une récompense",
+  "ADVENT__EDIT_GIFT": "Editer une récompense",
+  "ADVENT__DECEMBER": "Décembre",
+
+  "ADVENT__CONFIG_COMMAND": "Commande global effectuée pour chaque jour récupéré.",
+  "ADVENT__CONFIG_COMMAND_DESC": "<b>{PLAYER}</b> = Pseudo <br><b>{DAY}</b> = Jour récupéré <br><b>Exemple:</b> <i>say {PLAYER} à reçu son jour {DAY}</i>",
+  "ADVENT__CONFIG_NEED_ONLINE": "Obliger le joueur à être connecté pour recevoir sa/ses récompenses.",
+  "ADVENT__CONFIG_SERVER_REQ": "Si la sélection automatique est activée alors ce paramètres ne changera rien",
+  "ADVENT__CONFIG_AUTO_SELECT": "Sélection automatique du serveur",
+  "ADVENT__CONFIG_AUTO_SELECT_DESC": "Si vous avez des serveurs liés avec le plugin vous pouvez donner la récompense là où est connecté le joueur.",
+
+  "ADVENT__SUCCESS_DELETE": "Suppression avec succès !",
+  "ADVENT__SUCCESS_GIVE": "Récompense(s) donnée(s) en jeu !",
+
+
+  "ADVENT__ERROR_CHECK_GIFT": "Une erreur est survenue, aucune récompense n'est configurée !",
+  "ADVENT__ERROR_MUST_BE_LOGGED": "Vous devez être connecté sur le site pour effectuer cette action",
+  "ADVENT__ERROR_COLLECT": "Une erreur est survenue, vous ne devez pas être connecté en jeu !",
+  "ADVENT__ERROR_COLLECT_DATE": "Ce n'est pas le bon jour ! Nous ne sommes pas le {DAY} décembre !",
+  "ADVENT__ERROR_ALLREADY": "Vous avez déjà récupéré ce jour !"
+
+}

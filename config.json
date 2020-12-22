@@ -1,0 +1,41 @@
+{
+  "name": "Advent",
+  "admin_menus": {
+    "GLOBAL__ADMIN_PLUGINS": {
+      "ADVENT__TITLE": {
+        "icon": "gift",
+        "index": "4",
+        "menu": {
+          "ADVENT__CONFIG": {
+            "icon": "cog",
+            "route": "/admin/advent/config"
+          },
+          "ADVENT__GIFT": {
+            "icon": "gift",
+            "route": "/admin/advent"
+          },
+          "ADVENT__HISTORY": {
+            "icon": "fab fa-stack-exchange",
+            "route": "/admin/advent/history"
+          }
+        }
+      }
+    }
+  },
+  "navbar_routes": {
+    "Calendrier de l'avent": "/advent"
+  },
+  "author": "nivcoo",
+  "version": "1.0.0",
+  "useEvents": false,
+  "permissions": {
+    "available": [],
+    "default": {
+      "0": [],
+      "2": []
+    }
+  },
+  "requirements": {
+    "CMS": "^1.11.0"
+  }
+}
