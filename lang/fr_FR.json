@@ -28,7 +28,7 @@
 
   "ADVENT__ERROR_CHECK_GIFT": "Une erreur est survenue, aucune récompense n'est configurée !",
   "ADVENT__ERROR_MUST_BE_LOGGED": "Vous devez être connecté sur le site pour effectuer cette action",
-  "ADVENT__ERROR_COLLECT": "Une erreur est survenue, vous ne devez pas être connecté en jeu !",
+  "ADVENT__ERROR_COLLECT": "Une erreur est survenue, vous devez être connecté en jeu !",
   "ADVENT__ERROR_COLLECT_DATE": "Ce n'est pas le bon jour ! Nous ne sommes pas le {DAY} décembre !",
   "ADVENT__ERROR_ALLREADY": "Vous avez déjà récupéré ce jour !"
 
